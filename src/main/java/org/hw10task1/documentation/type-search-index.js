@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.hw10task1","l":"Calculator"},{"p":"org.hw10task1","l":"CalculatorOperation"},{"p":"org.hw10task1","l":"Main"}];updateSearchResults();
